@@ -14,5 +14,8 @@
 
 * Lets connect - [LinkedIn](https://www.linkedin.com/in/juwon-emmanuel-akingbade-b12912177/) || [Twitter](https://twitter.com/juwonemmanuel6) 😊😊😊
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JUNNY12&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNNY12&langs_count=5&theme=tokyonight)]()
+
 
 
