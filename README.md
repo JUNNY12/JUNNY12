@@ -28,21 +28,14 @@
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-# Hi , I'm Juwon 👋👋
+- :telescope: I am open for Frontend developer Roles (React) 👐👐
 
-## A frontend Developer 💻 
+- :seedling: I am Interested Data scienece (Upcoming Machine Learning Engineer) 😃
 
-* I am open for Frontend developer Roles 👐👐
+- :zap: I'm looking to work with others on front end development projects. ☀️☀️☀️
 
-* I am currently learning React JS 	📚 
+- :mailbox:You can Mail me [juwonemmanuel22@gmail.com](juwonemmanuel22@gmail.com) 📧 
 
-* I am Interested and currently Learning  Data scienece (Upcoming Machine Learning Engineer) 😃
-
-* I'm looking to work with others on front end development projects. ☀️☀️☀️
-
-* You can Mail me [juwonemmanuel22@gmail.com](juwonemmanuel22@gmail.com) 📧 
-
-* Lets connect - [LinkedIn](https://www.linkedin.com/in/juwon-emmanuel-akingbade-b12912177/) || [Twitter](https://twitter.com/juwonemmanuel6) 😊😊😊
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JUNNY12&theme=dark&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNNY12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
