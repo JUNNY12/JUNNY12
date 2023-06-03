@@ -23,6 +23,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="600" height="400"/>
 </div>
+---
+
+### :man_technologist: About Me :
 
 # Hi , I'm Juwon 👋👋
 
