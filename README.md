@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+</div>
+
 # Hi , I'm Juwon 👋👋
 
 ## A frontend Developer 💻 
