@@ -60,6 +60,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNNY12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :joy: Get Daily Jokes
+### :joy: Get Daily Jokes :
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
